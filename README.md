@@ -2,10 +2,6 @@
 
 > 前端面试常考问题分类整理汇总
 
-# from to [here](https://github.com/poetries/FE-Interview-Questions.git)
-
-# [>> 面试问题答案综合版](https://github.com/poetries/FE-Interview-Questions/issues/2)
-
 目录
 ---
 
@@ -35,9 +31,3 @@
 - [other](other.md)
 - [comprehensive](comprehensive.md)
 
-
-# 综合版本
-# ---
-
-# - [Interview-Questions](Interview-Questions/Front-end-Developer-Questions[question-version].md)
-# - [Front-end-Developer-Questions[question-and-answer-version]](Interview-Questions/Front-end-Developer-Questions[question-and-answer-version].md)
